@@ -1,0 +1,5 @@
+{
+  "name": "Celebrity Creator",
+  "description": "Generate a high-resolution image of a fictional influencer or celebrity for an ad campaign by specifying their gender, origin, brand type, and social media follower counts.",
+  "requestFramePermissions": []
+}
